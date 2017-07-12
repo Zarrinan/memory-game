@@ -5,7 +5,7 @@ cards [0] = cardOne;
 cardsInPlay.push("cardOne");
 console.log("User flipped queen");
 var cardTwo;
-cards [3] = cardTwo;
+cards [2] = cardTwo;
 cardsInPlay.push("cardTwo");
 console.log("User flipper king");
 if (cardsInPlay [0] === cardsInPlay [1]) {
